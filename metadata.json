@@ -1,0 +1,5 @@
+{
+  "name": "Bang Digital Voice",
+  "description": "AI-powered Text-to-Speech and script generation for TikTok creators. Generate scripts from text, images, or videos using Gemini.",
+  "requestFramePermissions": []
+}

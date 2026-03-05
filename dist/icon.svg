@@ -1,0 +1,15 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#0A0A0A"/>
+  <circle cx="256" cy="256" r="210" stroke="#84CC16" stroke-width="4" stroke-dasharray="12 12" opacity="0.3"/>
+  <path d="M160 256V256M208 256V256M256 256V256M304 256V256M352 256V256" stroke="#84CC16" stroke-width="32" stroke-linecap="round">
+    <animate attributeName="d" values="M160 220V292;M160 180V332;M160 220V292" dur="1.5s" repeatCount="indefinite" />
+  </path>
+  <path d="M256 140V372" stroke="#84CC16" stroke-width="40" stroke-linecap="round">
+    <animate attributeName="stroke-width" values="40;56;40" dur="1s" repeatCount="indefinite" />
+  </path>
+  <path d="M192 180V332" stroke="#84CC16" stroke-width="32" stroke-linecap="round" opacity="0.8"/>
+  <path d="M320 180V332" stroke="#84CC16" stroke-width="32" stroke-linecap="round" opacity="0.8"/>
+  <path d="M128 220V292" stroke="#84CC16" stroke-width="24" stroke-linecap="round" opacity="0.6"/>
+  <path d="M384 220V292" stroke="#84CC16" stroke-width="24" stroke-linecap="round" opacity="0.6"/>
+  <path d="M256 140L230 166M256 140L282 166" stroke="#84CC16" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
